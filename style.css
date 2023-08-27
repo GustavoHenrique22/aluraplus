@@ -34,7 +34,7 @@ body {
     grid-template-columns: 50% 50%;
 }
 
-.botao_primario {
+.container__botao {
     display: block;
     background-color: var(--botao-azul);
     border-radius: 8px;
@@ -44,7 +44,7 @@ body {
     margin-bottom: 1em;
 }
 
-.botao_primario:hover {
+.container__botao:hover {
     background-color: #0749ff;
 }
 
