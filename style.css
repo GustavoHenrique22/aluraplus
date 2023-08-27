@@ -46,12 +46,7 @@ body {
 
 .container__botao:hover {
     background-color: #0749ff;
-}   
-
-.botao_segundario:hover {
-    background-color:var(--botao-azul);
 }
-
 
 .botao_segundario {
     background-color: transparent;
